@@ -131,7 +131,6 @@ FaultDXAI/
 ├── 📂 Model/
 ├── 📂 Results/
 ├── 📂 Explainable_AI/
-└── 📂 Documentation/
 ```
 
 ---
